@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4995/Projet%20Easter/pechay_a/includes
+END
+checks_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/checks_1.c
+END
+checks_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/checks_2.c
+END
+get_string_from_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4837/Projet%20Easter/pechay_a/includes/get_string_from_file.c
+END
+solve.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/solve.c
+END
+lists_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/lists_manager.c
+END
+check_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/check_args.c
+END
+libre.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4995/Projet%20Easter/pechay_a/includes/libre.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/init.c
+END
+my_explode.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/my_explode.c
+END
+my_putstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/my_putstr.c
+END
+my_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/my_open.c
+END
+openables.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/openables.c
+END
+my_putchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/my_putchar.c
+END
+my_count_words.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/my_count_words.c
+END
+my_put_nbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/my_put_nbr.c
+END
+display_soluce.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/v2/2020_Prep'ETNA_TIC-DEVC_3_0-1628/!svn/ver/4948/Projet%20Easter/pechay_a/includes/display_soluce.c
+END
